@@ -1,0 +1,1 @@
+# pnpm-ignore-dep-scripts-without-shared-lockfile
